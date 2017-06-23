@@ -15,7 +15,7 @@ public class SignInActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        Apptimize.setup(this, "BgMQAmGrcfkSqQdWrcktb5NLmtXEMds");
+        Apptimize.setup(this, "AqfLX9vcu6nL5uRPNccLZeScH9vrCtQ");
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_signin);
 
